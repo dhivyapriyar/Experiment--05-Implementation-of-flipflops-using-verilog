@@ -129,7 +129,7 @@ Developed by: Dhivyapriya.R
 
 RegisterNumber: 212222230032
 
-SR FLIPFLOPS CODE:
+### SR FLIPFLOPS CODE:
 
 module ex5(S,R,clk,Q,Qbar);
 
@@ -155,7 +155,7 @@ end
 
 endmodule
 
-JK FLIPFLOPS CODE:
+### JK FLIPFLOPS CODE:
 
 module ex5(J,K,clk,Q,Qbar);
 
@@ -181,7 +181,7 @@ end
 
 endmodule
 
-D FLIPFLOPS CODE:
+### D FLIPFLOPS CODE:
 
 module ex5(D,clk,Q,Qbar);
 
@@ -207,7 +207,7 @@ end
 
 endmodule
 
-T FLIPFLOPS CODE:
+### T FLIPFLOPS CODE:
 
 module ex5(T,clk,Q,Qbar);
 
@@ -241,6 +241,7 @@ endmodule
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
+
 ### RTL FOR SR
 ![ex05 de 1](https://github.com/dhivyapriyar/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477552/7779f57d-e910-4f9f-ba58-b072b8011984)
 
@@ -255,6 +256,7 @@ endmodule
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+
 ### WAVEFPRM FOR SR
 ![ex5 de 5](https://github.com/dhivyapriyar/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477552/8ba1425a-c3cd-4481-b2b0-5671414c90cd)
 
@@ -271,6 +273,7 @@ endmodule
 ![ex5 de 9](https://github.com/dhivyapriyar/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477552/b428f0ce-a238-4e52-9095-4d431e2e5b32)
 
 ### RESULT
+
 Implementation-of-flipflops-using-verilog successfully completed.
 
 
