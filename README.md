@@ -257,19 +257,19 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-### WAVEFPRM FOR SR
+### WAVEFORM FOR SR
 ![ex5 de 5](https://github.com/dhivyapriyar/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477552/8ba1425a-c3cd-4481-b2b0-5671414c90cd)
 
-### WAVEFPRM FOR JK
+### WAVEFORM FOR JK
 ![ex5 de 6](https://github.com/dhivyapriyar/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477552/0b984729-d30d-4364-b9c3-617bc81df2fd)
 
-### WAVEFPRM FOR JK_toggle
+### WAVEFORM FOR JK_toggle
 ![ex5 de 7](https://github.com/dhivyapriyar/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477552/cdd54970-7bac-468c-b66e-189773b936cd)
 
-### WAVEFPRM FOR D
+### WAVEFORM FOR D
 ![ex5 de 8](https://github.com/dhivyapriyar/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477552/a6deb7c4-0510-4b24-a687-81d6687a6048)
 
-### WAVEFPRM FOR T
+### WAVEFORM FOR T
 ![ex5 de 9](https://github.com/dhivyapriyar/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119477552/b428f0ce-a238-4e52-9095-4d431e2e5b32)
 
 ### RESULT
